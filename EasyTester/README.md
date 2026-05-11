@@ -97,7 +97,7 @@ USB Type-Cコネクターに電源（4.5 ～ 20V）を接続します。電圧�
 
 ### 資料
 
-- [Easy Tester 製作に関する記事](https://kanengomibako.github.io/)（準備中）
+- [Easy Tester 製作に関する記事](https://kanengomibako.github.io/pages/00383_EasyTester.html)
 
 
 
